@@ -19,6 +19,7 @@
 
 
 3 run seeder command "php artisan db:seed"
+
     3.1 Now you have User with credentials who can create todo
         3.1.1 email "admin@admin.com"
         3.1.2 password "123456"
