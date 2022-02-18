@@ -12,8 +12,12 @@
 
 ## How To Setup
 
-1 create db
+1 create db  
+
+
 2 run migraions "php artisan migrate"
+
+
 3 run seeder command "php artisan db:seed"
     3.1 Now you have User with credentials who can create todo
         3.1.1 email "admin@admin.com"
